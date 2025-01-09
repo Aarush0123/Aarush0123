@@ -1,7 +1,7 @@
-![MasterHead](https://www.bsaec.in/img/Electronics%20And%20Communication%20Engineering.jpg)
+![MasterHead](https://www.uecu.ac.in/images/ECE_banner.jpg)
 <h1 align="center">Hi 👋, I'm Aarush Nigam</h1>
-<h3 align="center">A passionate programmer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExd2doMWdlZGVkMmZqcjFvZGZmYnc3MG5rNG04MnRpY2V0cTczZ3d1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/HzPtbOKyBoBFsK4hyc/giphy.webp">
+<h3 align="center">A passionate programmer from India learning ECE by profession</h3>
+<img align="right" alt="Coding" width="400" src="https://media.tenor.com/trwMzHIDQlQAAAAi/hack-hacking.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aarush0123&label=Profile%20views&color=0e75b6&style=flat" alt="aarush0123" /> </p>
 
@@ -27,4 +27,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=aarush0123&show_icons=true&locale=en" alt="aarush0123" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aarush0123&" alt="aarush0123" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=aarush0123&" alt="" /></p>
